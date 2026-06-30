@@ -2,7 +2,7 @@ name: Google Sheet Automation
 
 on:
   schedule:
-    - cron: '40 18 * * *'
+    - cron: '55 18 * * *'
   workflow_dispatch:
 
 jobs:
