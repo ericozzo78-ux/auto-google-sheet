@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Call Apps Script
         run: |
-          curl "https://script.google.com/macros/s/AKfycbyQ-6RCT_UtdKTh_0M_5YbmhWEJ4rZd1ErTFp1pg9ZPZZCx4d4QRgxHBj29ktszHuln/exec"
+          curl "https://script.google.com/macros/s/AKfycbzSR_4cbTZwbYa1puBGYerH7GOGLpGce_DyKYaZDcLTt_K7r3Vo4cLPXjtZI-_gRPxq/exec"
